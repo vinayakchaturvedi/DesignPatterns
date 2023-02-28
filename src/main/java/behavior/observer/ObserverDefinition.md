@@ -13,5 +13,5 @@ Observer pattern uses three actor classes. Subject, Observer and Client. Subject
 2. Each observer will have a copy of observable. Once it gets the notification from the observable it'll perform its task.
 
 ## Use case
-1. Flipkart, Amazon -> Notify me button
+1. Flipkart, Amazon -> Notify me button -- Asked in Walmart
 2. Weather station -> Temperature being observer by different kind of devices -> TV, Phone, Computer
